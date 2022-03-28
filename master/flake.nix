@@ -11,7 +11,6 @@
   inputs.src-nimssl-master.ref   = "refs/heads/master";
   inputs.src-nimssl-master.owner = "genotrance";
   inputs.src-nimssl-master.repo  = "nimssl";
-  inputs.src-nimssl-master.dir   = "";
   inputs.src-nimssl-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";

@@ -11,7 +11,6 @@
   inputs.src-nimssl-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-nimssl-v0_1_0.owner = "genotrance";
   inputs.src-nimssl-v0_1_0.repo  = "nimssl";
-  inputs.src-nimssl-v0_1_0.dir   = "";
   inputs.src-nimssl-v0_1_0.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
